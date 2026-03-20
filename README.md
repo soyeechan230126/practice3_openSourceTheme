@@ -8,7 +8,7 @@
   > #### bummer: had to reset the remote origin
   > `git init` , could not execute `git add` ; current branch `master`, remote branch `main`\
   > \
-  > Actions take:  
+  > Actions taken:  
   > `git remote remove origin`\
   > `git remote add origin <url>` \
   > `git checkout -b main` \
