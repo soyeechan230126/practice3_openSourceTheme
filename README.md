@@ -22,6 +22,7 @@
   > `git push -f origin main`  
   > \
   > Status: 
-  > - still not able to commit despite of cloning `master` to `main`
+  > - ~~still not able to commit despite of cloning `master` to `main`~~
+  > - not able to use the lazy `git add .`
   > - fail to deploy: `jekyll` and `github-pages` dependencies?
 
